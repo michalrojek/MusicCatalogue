@@ -1,0 +1,1 @@
+<div class="footer">Katalog muzyczny - projektowanie aplikacji internetowych | Wykonanie: Michał Rojek</div>
